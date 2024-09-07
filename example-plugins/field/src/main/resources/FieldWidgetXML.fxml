@@ -1,0 +1,6 @@
+<?import javafx.scene.layout.*?>
+<StackPane xmlns:fx="http://javafx.com/fxml/1" fx:controller="field/src/main/resources/FieldWidgetXML.fxml" fx:id="root">
+   <VBox>
+      <Label fx:id = "lable"/>
+   </VBox>
+</StackPane>
